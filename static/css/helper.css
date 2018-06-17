@@ -1,0 +1,33 @@
+.block{
+    display: block !important;
+}
+.inline-block{
+    display: inline-block !important;
+}
+.fwf{
+    width: 100% !important;
+}
+.clearMargin{
+    margin: 0 !important;
+}
+.clearMarginLeft{
+    margin-left: 0 !important;
+}
+.clearPadding{
+    padding: 0 !important;
+}
+.ml5{
+    margin-left: 5px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.pb10{
+    padding-bottom: 10px;
+}
+.smallTitleButtonMargin{
+    margin: 6px 6px 0 0;
+}

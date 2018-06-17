@@ -1,0 +1,154 @@
+2014-03-07 2:18:10 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码:1698（4位验证码），十分钟内有效。【上海火柿】
+2014-03-07 2:18:10 - start  file_get_contents 
+2014-03-07 2:18:13 - $file_contents : 1
+2014-03-07 2:24:26 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=132568763394&smsText=验证码:4873（4位验证码），十分钟内有效。
+2014-03-07 2:24:26 - start  file_get_contents 
+2014-03-07 2:24:28 - $file_contents : -4
+2014-03-07 2:25:05 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=132568763394&smsText=验证码:2308（4位验证码），十分钟内有效。
+2014-03-07 2:25:05 - start  file_get_contents 
+2014-03-07 2:25:07 - $file_contents : -4
+2014-03-07 2:25:44 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码:8044（4位验证码），十分钟内有效。
+2014-03-07 2:25:44 - start  file_get_contents 
+2014-03-07 2:25:46 - $file_contents : 1
+2014-03-07 2:43:01 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码3323，十分钟内有效。
+2014-03-07 2:43:01 - start  file_get_contents 
+2014-03-07 2:43:07 - $file_contents : 1
+2014-03-07 2:44:15 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码3841，十分钟内有效。
+2014-03-07 2:44:15 - start  file_get_contents 
+2014-03-07 2:44:20 - $file_contents : 1
+2014-03-07 3:38:42 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码8226，十分钟内有效。
+2014-03-07 3:38:42 - start  file_get_contents 
+2014-03-07 3:38:48 - $file_contents : 1
+2014-03-07 3:58:35 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码4057，十分钟内有效。
+2014-03-07 3:58:35 - start  file_get_contents 
+2014-03-07 3:58:38 - $file_contents : 1
+2014-03-07 5:05:02 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码3765，十分钟内有效。
+2014-03-07 5:05:02 - start  file_get_contents 
+2014-03-07 5:05:05 - $file_contents : 1
+2014-03-07 5:39:02 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码2952，十分钟内有效。
+2014-03-07 5:39:02 - start  file_get_contents 
+2014-03-07 5:39:05 - $file_contents : 1
+2014-03-07 6:04:21 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码7240，十分钟内有效。
+2014-03-07 6:04:21 - start  file_get_contents 
+2014-03-07 6:04:24 - $file_contents : 1
+2014-03-07 6:44:31 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码4261，十分钟内有效。
+2014-03-07 6:44:31 - start  file_get_contents 
+2014-03-07 6:44:34 - $file_contents : 1
+2014-03-07 6:54:25 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码9803，十分钟内有效。
+2014-03-07 6:54:25 - start  file_get_contents 
+2014-03-07 6:54:29 - $file_contents : 1
+2014-03-07 6:57:17 - sendMsgBySms : http://utf8.sms.webchinese.cn/?Uid=lvp23&Key=3acca324aca378f56052&smsMob=13256876339&smsText=验证码2389，半小时内有效。
+2014-03-07 6:57:17 - start  file_get_contents 
+2014-03-07 6:57:19 - $file_contents : 1
+2014-03-10 7:04:58 - Find Lock $lockAddr :中环大厦
+2014-03-10 7:04:58 - Find Lock $uuid :1a08815d-9a9e-ed84-b550-35ff48d63b82
+2014-03-10 7:04:58 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:1a08815d-9a9e-ed84-b550-35ff48d63b82',
+     'requestId' => '1a08815d-9a9e-ed84-b550-35ff48d63b82',
+     'responseId' => '347d1684-91f2-4487-b6c0-9632ffbb7f82',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:03:54',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:06:56 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:06:56 - Find Lock $uuid :26508385-02f5-fbb5-5d36-23db7f2a5fd5
+2014-03-10 7:06:56 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:26508385-02f5-fbb5-5d36-23db7f2a5fd5',
+     'requestId' => '26508385-02f5-fbb5-5d36-23db7f2a5fd5',
+     'responseId' => '6698ee4e-7e6e-4ef1-a569-80056007d45c',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:05:52',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:08:45 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:08:45 - Find Lock $uuid :8a8d6f62-6697-6a4f-9128-3ab4953a5ec6
+2014-03-10 7:08:45 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:8a8d6f62-6697-6a4f-9128-3ab4953a5ec6',
+     'requestId' => '8a8d6f62-6697-6a4f-9128-3ab4953a5ec6',
+     'responseId' => '5d68fb26-0e2c-43c5-8dad-7f07cb521ac7',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:07:41',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:09:16 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:09:16 - Find Lock $uuid :18ed7f13-cf41-58ab-626f-3c910a0165ca
+2014-03-10 7:09:17 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:18ed7f13-cf41-58ab-626f-3c910a0165ca',
+     'requestId' => '18ed7f13-cf41-58ab-626f-3c910a0165ca',
+     'responseId' => 'c301dc0a-4608-4eb6-a666-41f7893238af',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:08:12',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:09:49 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:09:49 - Find Lock $uuid :b671f7c4-08b8-43d7-f99d-40f1bf2f6be9
+2014-03-10 7:09:49 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:b671f7c4-08b8-43d7-f99d-40f1bf2f6be9',
+     'requestId' => 'b671f7c4-08b8-43d7-f99d-40f1bf2f6be9',
+     'responseId' => 'aa7b6737-eab0-4baf-becf-8641ee09e52e',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:08:45',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:12:12 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:12:12 - Find Lock $uuid :ec33ce4f-8c2a-470b-a282-c32431b94c58
+2014-03-10 7:12:13 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:ec33ce4f-8c2a-470b-a282-c32431b94c58',
+     'requestId' => 'ec33ce4f-8c2a-470b-a282-c32431b94c58',
+     'responseId' => '15e87e86-83a0-49ef-92cf-fb2a393ff3a3',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:11:08',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:12:44 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:12:44 - Find Lock $uuid :002dd495-2a35-e9a8-251b-8f5751cf39ce
+2014-03-10 7:12:44 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:002dd495-2a35-e9a8-251b-8f5751cf39ce',
+     'requestId' => '002dd495-2a35-e9a8-251b-8f5751cf39ce',
+     'responseId' => '03393665-8072-4633-8dfb-26d061fa3c53',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:11:39',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))
+2014-03-10 7:13:19 - Find Lock $lockAddr :青岛市市南区香港中路
+2014-03-10 7:13:19 - Find Lock $uuid :4c1b4cc8-f1c7-859c-37bf-21b2d6c81732
+2014-03-10 7:13:19 - Find One Card $result :stdClass::__set_state(array(
+   'return' => 
+  stdClass::__set_state(array(
+     'errorMessage' => '门锁不存在,请求Id:4c1b4cc8-f1c7-859c-37bf-21b2d6c81732',
+     'requestId' => '4c1b4cc8-f1c7-859c-37bf-21b2d6c81732',
+     'responseId' => 'd916cd16-11ab-4a8b-99b5-9e4dc0d9124a',
+     'responseSystemId' => 'MEGAFO_DEVICE',
+     'responseTime' => '2014-03-10 15:12:15',
+     'status' => '10000',
+     'kssLockDto' => NULL,
+  )),
+))

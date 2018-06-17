@@ -1,0 +1,35 @@
+#imageFrm{
+
+}
+
+
+#J_ImgList .photo-item{
+
+}
+
+#J_ImgList .photo-item{
+
+}
+
+.boxy-modal-blackout{
+
+    display:none
+}
+
+.photo-item{
+
+    list-style:none;
+    float:left;
+    width:200px;
+    margin:10px 0;
+}
+.photo-item .img-item{
+    width:100px;
+    float:left;
+    margin-right:10px;
+}
+
+.photo-item .btn{
+    float:left;
+
+}
